@@ -1,0 +1,61 @@
+Celltype_1	Celltype_2	Mean_AUROC	Match_type	Avgscore	hierarchy	Celltype_1_group	Celltype_2_group
+Fly|PH 1	Fish|Erythroid	0.99	Reciprocal_top_hit	0.662856531200305	FF	Fly	Fish
+Fly|PH 1	Fish|HSCs	0.95	Above_threshold:0.75	0.975	FF	Fly	Fish
+Fly|CC	Fish|NK/T cell	0.89	Reciprocal_top_hit	0.445	FF	Fly	Fish
+Fly|LM	Fish|Neutrophil	0.82	Reciprocal_top_hit	0.91	FF	Fly	Fish
+Fly|Adipohemocyte	Fish|Macrophage	0.81	Reciprocal_top_hit	0.573411950864413	FF	Fly	Fish
+Fly|PM 120	Fish|Macrophage	0.78	Above_threshold:0.75	0.89	FF	Fly	Fish
+Fly|PH 1	Mouse|B cells	0.89	Above_threshold:0.75	0.945	FM	Fly	Mouse
+Fly|PH 1	Mouse|Granulocytopoietic cells	0.89	Reciprocal_top_hit	0.82434584477826	FM	Fly	Mouse
+Fly|LM	Mouse|pDC	0.88	Reciprocal_top_hit	0.718319446763784	FM	Fly	Mouse
+Fly|PH	Mouse|Progenitors	0.87	Reciprocal_top_hit	0.935	FM	Fly	Mouse
+Fly|CC	Mouse|Macrophage	0.86	Reciprocal_top_hit	0.93	FM	Fly	Mouse
+Fly|Adipohemocyte	Mouse|Monocytes	0.79	Reciprocal_top_hit	0.647049629804375	FM	Fly	Mouse
+Fly|PM 120	Mouse|NK cells	0.78	Reciprocal_top_hit	0.590631257229904	FM	Fly	Mouse
+Fly|LM	Mouse|Neutrophils	0.77	Above_threshold:0.75	0.885	FM	Fly	Mouse
+Fly|PH 1	Human|pro-B cells	0.99	Reciprocal_top_hit	0.995	FH	Fly	Human
+Fly|PH	Human|Erythroids	0.96	Reciprocal_top_hit	0.920262069030246	FH	Fly	Human
+Fly|Adipohemocyte	Human|Monocytes	0.93	Reciprocal_top_hit	0.583413201987558	FH	Fly	Human
+Fly|PH 1	Human|pre-PC	0.92	Above_threshold:0.75	0.84653872531353	FH	Fly	Human
+Fly|LM	Human|Macrophage	0.9	Reciprocal_top_hit	0.95	FH	Fly	Human
+Fly|LM	Human|DC	0.86	Above_threshold:0.75	0.928988672643199	FH	Fly	Human
+Fly|PM 120	Human|Monocytes	0.84	Above_threshold:0.75	0.92	FH	Fly	Human
+Fly|CC	Human|Platelet	0.8	Above_threshold:0.75	0.9	FH	Fly	Human
+Fly|Adipohemocyte	Human|B cells	0.76	Above_threshold:0.75	0.851823658509682	FH	Fly	Human
+Fish|Erythroid	Mouse|Erythroids	1	Reciprocal_top_hit	1	FM	Fish	Mouse
+Fish|NK/T cell	Mouse|T cells	0.97	Reciprocal_top_hit	0.985	FM	Fish	Mouse
+Fish|B cell	Mouse|B cells	0.97	Reciprocal_top_hit	0.985	FM	Fish	Mouse
+Fish|Macrophage	Mouse|Monocytes	0.95	Reciprocal_top_hit	0.961857567069751	FM	Fish	Mouse
+Fish|Neutrophil	Mouse|Neutrophils	0.92	Reciprocal_top_hit	0.96	FM	Fish	Mouse
+Fish|NK/T cell	Mouse|NK cells	0.89	Above_threshold:0.8	0.861684793687204	FM	Fish	Mouse
+Fish|Neutrophil	Mouse|Granulocytopoietic cells	0.86	Above_threshold:0.8	0.833632631621466	FM	Fish	Mouse
+Fish|HSCs	Mouse|Granulocytopoietic cells	0.84	Above_threshold:0.8	0.92	FM	Fish	Mouse
+Fish|Macrophage	Mouse|Macrophage	0.82	Above_threshold:0.8	0.91	FM	Fish	Mouse
+Fish|Erythroid	Human|Erythroids	1	Reciprocal_top_hit	1	FH	Fish	Human
+Fish|Macrophage	Human|Monocytes	0.99	Reciprocal_top_hit	0.971445485651621	FH	Fish	Human
+Fish|B cell	Human|B cells	0.96	Reciprocal_top_hit	0.735618415521783	FH	Fish	Human
+Fish|Erythroid	Human|pro-B cells	0.95	Above_threshold:0.8	0.815514820338857	FH	Fish	Human
+Fish|NK/T cell	Human|CD8 T cells	0.95	Reciprocal_top_hit	0.842900860113153	FH	Fish	Human
+Fish|Macrophage	Human|Macrophage	0.94	Above_threshold:0.8	0.933513907234409	FH	Fish	Human
+Fish|Macrophage	Human|DC	0.9	Above_threshold:0.8	0.95	FH	Fish	Human
+Fish|NK/T cell	Human|T cells	0.89	Above_threshold:0.8	0.945	FH	Fish	Human
+Fish|Neutrophil	Human|Neutrophils	0.89	Reciprocal_top_hit	0.824195011131194	FH	Fish	Human
+Fish|HSCs	Human|Platelet	0.87	Above_threshold:0.8	0.935	FH	Fish	Human
+Mouse|Neutrophils	Human|Neutrophils	1	Reciprocal_top_hit	0.97043677732113	MH	Mouse	Human
+Mouse|Plasma cells	Human|Plasma cells	1	Reciprocal_top_hit	1	MH	Mouse	Human
+Mouse|Erythroids	Human|Erythroids	1	Reciprocal_top_hit	1	MH	Mouse	Human
+Mouse|B cells	Human|B cells	0.99	Reciprocal_top_hit	0.860529855140896	MH	Mouse	Human
+Mouse|NK cells	Human|NK cells	0.99	Reciprocal_top_hit	0.995	MH	Mouse	Human
+Mouse|B cells	Human|pre-B cells	0.98	Above_threshold:0.8	0.974677344904901	MH	Mouse	Human
+Mouse|Granulocytopoietic cells	Human|Neutrophils	0.95	Above_threshold:0.8	0.954838569838111	MH	Mouse	Human
+Mouse|T cells	Human|CD8 T cells	0.95	Reciprocal_top_hit	0.969086257865596	MH	Mouse	Human
+Mouse|Neutrophils	Human|Monocytes	0.94	Above_threshold:0.8	0.97	MH	Mouse	Human
+Mouse|Monocytes	Human|Monocytes	0.94	Above_threshold:0.8	0.97	MH	Mouse	Human
+Mouse|Progenitors	Human|Erythroids	0.93	Above_threshold:0.8	0.956021410698152	MH	Mouse	Human
+Mouse|T cells	Human|T cells	0.92	Above_threshold:0.8	0.96	MH	Mouse	Human
+Mouse|Progenitors	Human|Granulocyte progenitor	0.92	Above_threshold:0.8	0.898937439537699	MH	Mouse	Human
+Mouse|pDC	Human|pDC	0.92	Reciprocal_top_hit	0.96	MH	Mouse	Human
+Mouse|Monocytes	Human|Macrophage	0.91	Above_threshold:0.8	0.923893789992241	MH	Mouse	Human
+Mouse|B cells	Human|pro-B cells	0.91	Above_threshold:0.8	0.955	MH	Mouse	Human
+Mouse|B cells	Human|pre-PC	0.91	Above_threshold:0.8	0.887948677141942	MH	Mouse	Human
+Mouse|Monocytes	Human|DC	0.84	Above_threshold:0.8	0.876539100167601	MH	Mouse	Human
