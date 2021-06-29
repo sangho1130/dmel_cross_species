@@ -1,0 +1,18 @@
+Study_ID|Celltype_1	Study_ID|Celltype_2	Mean_AUROC	 Match_type
+Fly|CC (L)	Mouse|Macrophage	0.92	Reciprocal_top_hit
+Fly|PH 1 (L)	Mouse|Erythroids	0.91	Reciprocal_top_hit
+Fly|LM (C)	Mouse|pDC	0.9	Reciprocal_top_hit
+Mouse|B cells	Fly|PH 1 (L)	0.89	Above_threshold:0.75
+Fly|PH 1 (C)	Mouse|B cells	0.88	Above_threshold:0.75
+Mouse|DC	Fly|PH 1 (L)	0.87	Above_threshold:0.75
+Mouse|Granulocytopoietic cells	Fly|PH 1 (C)	0.87	Above_threshold:0.75
+Fly|CC (C)	Mouse|pDC	0.86	Above_threshold:0.75
+Fly|PH (L)	Mouse|Progenitors	0.85	Reciprocal_top_hit
+Mouse|NK cells	Fly|CC (L)	0.82	Above_threshold:0.75
+Fly|LM (L)	Mouse|pDC	0.82	Above_threshold:0.75
+Mouse|T cells	Fly|CC (L)	0.81	Above_threshold:0.75
+Fly|PH (C)	Mouse|Erythroids	0.8	Above_threshold:0.75
+Fly|Adipohemocyte (L)	Mouse|Monocytes	0.8	Reciprocal_top_hit
+Fly|PM 120 (L)	Mouse|NK cells	0.79	Above_threshold:0.75
+Mouse|Neutrophils	Fly|LM (C)	0.78	Above_threshold:0.75
+Fly|PM 120 (C)	Mouse|Macrophage	0.75	Above_threshold:0.75
