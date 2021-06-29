@@ -1,0 +1,9 @@
+Study_ID|Celltype_1	Study_ID|Celltype_2	Mean_AUROC	 Match_type
+Fly|PH 1	Fish|Erythroid	0.99	Reciprocal_top_hit
+Fish|HSCs	Fly|PH 1	0.95	Above_threshold:0.75
+Fly|CC	Fish|NK/T cell	0.89	Reciprocal_top_hit
+Fish|B cell	Fly|PH 1	0.85	Above_threshold:0.75
+Fly|LM	Fish|Neutrophil	0.82	Reciprocal_top_hit
+Fly|Adipohemocyte	Fish|Macrophage	0.81	Reciprocal_top_hit
+Fly|PH	Fish|Erythroid	0.81	Above_threshold:0.75
+Fly|PM 120	Fish|Macrophage	0.78	Above_threshold:0.75
