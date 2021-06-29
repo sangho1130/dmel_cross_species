@@ -1,0 +1,25 @@
+Study_ID|Celltype_1	Study_ID|Celltype_2	Mean_AUROC	 Match_type
+Fly|PH 1 (C)	Human|pro-B cells	0.99	Reciprocal_top_hit
+Fly|PH 1 (L)	Human|pro-B cells	0.99	Above_threshold:0.75
+Human|Erythroids	Fly|PH 1 (L)	0.98	Above_threshold:0.75
+Human|pre-PC	Fly|PH 1 (C)	0.95	Above_threshold:0.75
+Fly|PH (L)	Human|Erythroids	0.94	Above_threshold:0.75
+Human|Platelet	Fly|Adipohemocyte (L)	0.92	Above_threshold:0.75
+Human|Progenitors	Fly|PH 1 (C)	0.92	Above_threshold:0.75
+Fly|PH (C)	Human|Erythroids	0.92	Above_threshold:0.75
+Fly|Adipohemocyte (L)	Human|Monocytes	0.92	Reciprocal_top_hit
+Fly|LM (C)	Human|Macrophage	0.89	Reciprocal_top_hit
+Human|Granulocyte progenitor	Fly|PH 1 (L)	0.88	Above_threshold:0.75
+Fly|PM 120 (C)	Human|Platelet	0.88	Above_threshold:0.75
+Fly|CC (C)	Human|Platelet	0.87	Above_threshold:0.75
+Fly|LM (L)	Human|Monocytes	0.86	Above_threshold:0.75
+Fly|PM 120 (L)	Human|Monocytes	0.86	Above_threshold:0.75
+Human|DC	Fly|LM (C)	0.84	Above_threshold:0.75
+Human|Plasma cells	Fly|PH 1 (C)	0.82	Above_threshold:0.75
+Fly|CC (L)	Human|Monocytes	0.82	Above_threshold:0.75
+Fly|GST-rich (C)	Human|Erythroids	0.81	Above_threshold:0.75
+Fly|GST-rich (L)	Human|Erythroids	0.81	Above_threshold:0.75
+Human|pre-B cells	Fly|PH 1 (C)	0.8	Above_threshold:0.75
+Human|CD8 T cells	Fly|PH 1 (C)	0.79	Above_threshold:0.75
+Human|B cells	Fly|Adipohemocyte (L)	0.77	Above_threshold:0.75
+Human|Neutrophils	Fly|PM 120 (L)	0.76	Above_threshold:0.75
