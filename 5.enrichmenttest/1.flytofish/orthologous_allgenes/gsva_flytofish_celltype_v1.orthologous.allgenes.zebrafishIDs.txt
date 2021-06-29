@@ -1,0 +1,418 @@
+PH 1	PH	PM	PM 120	LM	CC	GST-rich	Adipohemocyte
+dld	ace	lamb2	mmp14b	tubb6	galm	riok3	ypel1
+ncam1b	pglyrp2	lama5	chmp1b	adgre14	hyi	iscub	plekhh1
+grhl2b	fkbpl	lamc1	nfkb2	rap1gap2a	atox1	eif6	rps26
+znf609a	hmx4	galnt12	slc30a1a	itga4	lta4h	npas4a	eef1a1l1
+meis1b	lipf	spry2	nipa2	aqp4	slc31a1	xrcc4	bnip3
+tet3	nop56	idh1	snx18a	dbi	pde1a	mgmt	pparaa
+trim2a	tinagl1	syne1b	plekhf2	macf1a	fkbp4	rad50	rpl5a
+tbx3a	sord	calua	chmp2bb	treh	pank4	nfs1	rps19
+mbnl2	fbl	f10	rabgef1	gng13b	fbp1a	nubp1	eif4a1a
+hmgb2b	sertad4	fosab	myrf	itgb1a	rreb1a	hdhd2	rps18
+crb2b	dao.1	ets2	akr1a1a	fermt2	sult2st1	abcf1	fzd7b
+nbeaa	shmt1	plod3	lamp2	rap1aa	amdhd2	mre11a	rpl15
+sdc2	slc25a4	tnrc18	elovl1b	zfp64	agtrap	rpa1	rps14
+tle3b	hspd1	p4hb	chmp5b	snx17	hspa8	gstt1a	kdm6a
+rbfox1	gar1	ppib	bphl	fam107b	txn	rtcb	rps10
+nkd1	nap1l1	prkab1a	dram2b	mapre1a	cept1a	zbtb8os	rpl3
+add3a	c1qbp	fkbp14	jund	adcy8	itpkb	prpf31	rpl36
+smtna	nme2a	pdia3	phldb1a	tln2a	atp1b1a	atf4a	rpl12
+txnipa	rps2	sh3d19	chia.4	twf1b	plcb3	cebpg	rps17
+ssbp3a	pa2g4b	gale	laptm4a	tnfaip8l1	sod1	otulina	rpl26
+rcc2	rsl24d1	vtg3	gab1	ak1	aip	nubp2	rpl11
+her9	rps15a	kdrl	grb2b	coro7	slc12a3	psme3	sgpl1
+lrrn1	rps20	atp8b1	arpc3	sorbs3	dnajc1	cox17	rps29
+arhgef10la	ak2	prdx4	vta1	itgb7	eaf1	acsbg1	rpl10a
+pax6a	nop10	hibadha	spns1	flncb	ak3	mocs1	rpl27
+plekha5	mipb	c1galt1a	dazap2	tubb2	pabpc1a	cox19	apodb
+veph1	tomm40	hsd17b10	ap2m1b	rab11a	fryl	mlst8	rpl37
+brdt	rbm34	stat5a	chkb	atp8a2	pgd	polr2k	tespa1
+ctbp1	serbp1a	fndc3bb	cltca	lmnb2	rbpms2a	znf622	rpl17
+ckmt1	ddx47	cpda	manbal	zc2hc1a	zfand5b	trip4	rps27a
+usp54a	gltpa		vps28	tuba1a	ndufa13	sbds	rps16
+igsf9bb	umps		rhoh	fmnl2a	lpin1	akr7a3	gtpbp4
+gstm.2	paics		serpinb1	prom1a	slc2a2	furina	rps6
+g3bp1	trip11		itsn1	pxna	ahsa1a	polr2l	rps15
+rerea	mrto4		keap1b	fam43a	rpap2	nt5c2b	rpl19
+tec	llph		dynlt1	rab11fip4a	ccng2	ubxn1	slc41a1
+fzd5	hlfa		clk2a	gapdh	sntb1	ppm1bb	rps8b
+ostf1	hspg2		aldh7a1	itga6a	mtap	adssl1	rpl7
+nos1apa	ddx27		skp1	dgkaa	nucb2b	afg3l2	rps9
+chd8	nifk		npepl1	rab35b	pex13	lyrm4	rpl32
+adgrf6	bmi1a		napab	abl2	dyrk4	glsa	rpl28
+tjp2a			plscr3a	bves	aldh3a2a	aldh2.1	eef1b2
+sema6dl			hspa5	arrb1	ell2	ampd2a	rpl8
+pabpn1				plpp3	peli2	abcc4	rps23
+ciz1b				scamp1	nudc	gclc	march8
+lsm14aa				atp9b	pwp1	mthfsd	rpl7a
+dazap1				txndc9	cdc37l1	aprt	rchy1
+cnbpb				degs2	capn1b	ifrd1	rps24
+trim71				pitpnm3	xpnpep1	snrnp200	rpl6
+dynll1				gdap2	galnt1	nedd4a	bdh1
+smarca1				kras	chordc1b	rrm1	mthfs
+kpna7				cygb1	ppip5k2	sart1	rpl4
+kank3				ndrg3b	cs	gspt1	rpl18
+dcp2				nkain1	pcyt2	dnajb9b	paip2b
+socs9				inpp5f	psmd7	snrnp27	smim14
+tfap4				rapgef1b		mrpl30	tcp11l1
+prc1a				picalma		cnot7	samd11
+rsf1b.1				grk4		xrcc1	nsa2
+anp32b				phactr2		coa3a	memo1
+sumo3a				vcla		eif2s1b	ltv1
+top2b				qdpra		smpd1	ube2h
+csnk1g2b				sept5a		serhl	msrb3
+ncor2				pls3		sfxn1	slc29a1a
+lrp2a				kif16ba		bahd1	ip6k1
+sytl4				map7d3		slc39a10	dhtkd1
+mpp5a				parvab			scp2a
+slc20a1b				pfdn4			igf1ra
+crebbpb				cfl1l			ankrd13d
+zswim8				clic5a			ehbp1l1b
+atf7ip				tpi1a			pde9a
+ago2				snx6			mob1ba
+tlk2				rab1ab			crebl2
+ephb2b				shtn1			slc35f6
+igf2bp3				stx1b			zfp36l1a
+gli2b				uvrag			fam76b
+cbx1b				rras2			eif3s6ip
+srrm2				ilk			ptp4a2b
+med13b				ptger3			serac1
+hnrnpa3				hsp90b1			ngly1
+fubp1				acat2			mef2cb
+vangl1				esyt2a			fem1c
+bptf				rhpn2			dnajc8
+tmem47				arhgdig			man2b1
+dek				arpc2			pak2a
+arhgef39				prkar1aa			
+kmt2e				rap2b			
+api5				abi2a			
+seta				slc9a3.1			
+h2afva				atp6v1ab			
+ube2s				wasf2			
+pcna				ngef			
+arpp21				rab6bb			
+chek1				pfdn1			
+hnrnph3				stxbp5b			
+tp53inp1				myo1cb			
+ppp2r2bb				cct4			
+prrc2a				pgpep1			
+kpnb1				cdipt			
+nudt3b				pgam1a			
+kmt2bb				agfg1a			
+dag1				tbcb			
+pdcd4a				pfdn2			
+erbb3a				pfdn6			
+bmpr1aa				gnai1			
+rbm39a				ndst2a			
+arid1b				tnikb			
+ppp4r2a				kif5ba			
+phc2b				cab39l			
+arhgap35a				kif13a			
+hnrpkl				cct5			
+nasp				ttc1			
+ankhd1				fmn2b			
+ccnt2a				wdr1			
+smc4				fhl2b			
+tial1				ppp1cc			
+tubb4b				cct7			
+baz1a				vbp1			
+ube2q1				limch1a			
+rock1				stim1a			
+ppp2ca				taok3a			
+arpp19b				rcan3			
+eif4h				angptl7			
+ybx1				slc7a6			
+hnrnpabb				trip10a			
+pard3bb				cct3			
+stau2				cnn3b			
+ube2na				cct6a			
+kdm5c				fkbp8			
+arhgap23a				rnaset2			
+snrpd3l				dnajb6b			
+strn3				bri3			
+chd4a				impa1			
+ss18				adam12			
+siah1				clasp2			
+gck				ccny			
+acin1b				stx12			
+tdrd6				slc13a1			
+uba2				gna11a			
+spred2b				ap2s1			
+sfpq				fundc1			
+st13				gba2			
+jarid2b				ank1b			
+hnrnpm				sptlc1			
+brd7				rabgap1l			
+frmd6				gata5			
+cpsf6				yap1			
+smc2				reep5			
+vapb				clta			
+pih1d2				napga			
+tesk2				scocb			
+mki67				dagla			
+atrx				dnm1l			
+myo6b				atp6v1g1			
+phf10				arl2			
+pan3				ppp1cb			
+src				actr2a			
+etv7				itm2ba			
+srsf7a				wbp2			
+foxk1				atp6v0d1			
+sptb				foxo1a			
+ube2ia				arhgap1			
+smek1				mtpn			
+srsf4				srm			
+cdk11b				tmx1			
+xpo1b				pdlim7			
+cdkn1ca				pfdn5			
+fip1l1b				hip1			
+scrib				kdsr			
+sin3ab				ppp1r12a			
+calml4a				tcp1			
+caprin1a				pla2g6			
+top1l				ap1s1			
+vat1				klc1a			
+smad7				atp6v1b2			
+zmym4				arf6a			
+sf3b2				fcho2			
+evi5b				elof1			
+cntn3a.1				acap3a			
+zc3h18				rasa1a			
+cecr2				ggps1			
+srpk1a				myd88			
+ppp1r9ba				rtn1b			
+ctnnb1				cope			
+rcor1				clstn2			
+ccna1				lpcat3			
+usp7				ykt6			
+actl6b				brk1			
+rbbp6				rapgef4			
+hdac1				prkcea			
+nup153				anos1b			
+ncoa6				klhl5			
+waca				mob4			
+ddx6				cyfip2			
+puf60a				pigv			
+crsp7				flj11011l			
+snrpd1				cyb5a			
+polr2a				atp6v1f			
+cnot6l				limk1a			
+rhogb				arl6ip5a			
+qser1				elmo1			
+srrt				rraga			
+srcap				actr1			
+foxn4				fut10			
+trip13				gosr1			
+plk1				slc44a5b			
+apex1				klhdc10			
+pafah1b2				arf2a			
+phrf1				map4k3a			
+glyr1				atp10d			
+ca16b				slc9a8			
+srrm1				apc2			
+ylpm1				stx8			
+trrap				slc5a12			
+cks2				usp46			
+tmod1				nckap1			
+uchl5				hook1			
+ccnb1				kif3a			
+chaf1a				atg13			
+tpbgl				nrbp1			
+kif23				ube2d3			
+cdca4				golga4			
+psmd1				synj1			
+vrk1				ccdc28b			
+helz				ric8a			
+wtap				ralaa			
+skib				pdss2			
+srsf1a				vps26bl			
+ttyh2l				cct8			
+sf3b5				gpcpd1			
+wdyhv1				timm44			
+atp1a3a				ptrhd1			
+tcf7l1a				etnk1			
+snrpg				alg2			
+kif11				mtmr2			
+sae1				anxa5b			
+cdk2				map3k12			
+sephs1				tbcc			
+pbx4				nisch			
+snrnp70				nsfa			
+gatad2ab				cnnm2b			
+maml3				rce1a			
+dusp7				dnajc3a			
+hcfc1a				ube2g1a			
+zbtb11				rnaseka			
+csnk2b				cnppd1			
+nusap1				bet1			
+dcaf7				yipf6			
+dnttip2				mycbp			
+rbb4l				pdxdc1			
+smarca2				atp6v1c1a			
+ranbp1				rer1			
+ythdc1				arrdc3a			
+smarcb1a				ube2l3b			
+gnpnat1				nhlrc2			
+rgl1				atp2b3a			
+actn3b				sar1b			
+akap17a				atp6v1d			
+mark3b				piezo1			
+akap1b				pard6gb			
+ddx39b				dym			
+tcf12				gnpat			
+racgap1				bag2			
+rbm4.2				camk1b			
+top3b				atp6v1e1b			
+smn1				pmm2			
+ube2c				vps25			
+hif1ab				oard1			
+ehmt1b				pkma			
+ino80b				abcd3b			
+rangap1a				rgs12a			
+ppp6r2a				dnajb12a			
+safb				ctnna2			
+cenpe				pgm2			
+rfc1				pggt1b			
+fus				map2k4a			
+smad3b				usp6nl			
+kansl1a				psmc5			
+ppm1g				aph1b			
+wdr5				tpd52l2a			
+btbd10a				gosr2			
+slbp2				lamtor5			
+prpf39				psmc6			
+supt16h				atf6			
+cdk1				tmed5			
+nup98				btaf1			
+abcf2a				vps29			
+map3k10				arfip2b			
+arl14ep				lmo4a			
+uba1				pdcd5			
+tprb				gcshb			
+edc3				calr			
+smc5				dnm1b			
+nvl				tagapa			
+syap1				hiat1b			
+med31				psmd12			
+gtf2a2				glud1b			
+deaf1				canx			
+tnpo2				tmed7			
+taf3				usp14			
+nr5a1b				cycsb			
+arglu1a				eno1a			
+cnot3a				sdf2l1			
+u2af2b							
+hnrnpub							
+crtc3							
+cdca8							
+csnk1e							
+mcm7							
+cdk15							
+sept7b							
+smc1al							
+larp1							
+pde4d							
+larp4aa							
+rcc1							
+tnrc6c1							
+med22							
+fam193a							
+med21							
+prpf40a							
+srek1ip1							
+znf318							
+ppm1da							
+svila							
+unc119.1							
+pogza							
+tfdp1a							
+gpia							
+smarcc2							
+dhx9							
+rnf38							
+ap1g1							
+chd2							
+tuba7l							
+bmp7b							
+mcm6							
+dnajc9							
+ubr3							
+usp10							
+snrpf							
+epc1a							
+camk2d2							
+fam102bb							
+sf3b6							
+sf3a2							
+atp13a3							
+rbm27							
+ube2r2							
+bcl9							
+paip1							
+akt3b							
+hipk3b							
+tead3a							
+kctd5a							
+ggnbp2							
+ptpn6							
+rasa3							
+pds5a							
+huwe1							
+u2af1							
+mta2							
+tcf25							
+clip1a							
+thoc2							
+setd1ba							
+magoh							
+tbpl1							
+nfat5a							
+lrrc59							
+sirt1							
+znf207b							
+nkrf							
+ddx18							
+tcea2							
+mad2l1							
+phf19							
+gnas							
+mvk							
+ddx23							
+bcas2							
+ythdf1							
+rnps1							
+pnn							
+csrnp2							
+lypla2							
+eif4e2rs1							
+prkrip1							
+dmap1							
+mier1b							
+papolg							
+leng8							
+smarcd1							
+mcm4							
+clns1a							
+aldh4a1							
+birc5b							
+sart3							
+ncbp2							
+yy1a							
+arih1l							
+bicd1a							
+ruvbl2							
+ppp2r5cb							
+fbxw11b							
+cbx3a							
+dhx15							
+pigb							
+aff2							
+kcmf1							
+arl6ip1							
+usp36							
+med19a							
+ufd1l							
+pofut1							
+rsrc2							
+ap3d1							
+ndel1b							
