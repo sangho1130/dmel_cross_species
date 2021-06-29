@@ -1,0 +1,348 @@
+Celltype_1	Celltype_2	Mean_AUROC	Match_type	Avgscore	hierarchy	Celltype_1_group	Celltype_2_group
+Fly|PH 1	Fish|HSCs	0.95	Above_threshold:0.75	0.975	fzf	Fly	Fish
+Fly|PH 1	Fish|Erythroid	0.99	Reciprocal_top_hit	0.662856531200305	fzf	Fly	Fish
+Fly|PH 1	Fish|Neutrophil	NS	NS	0	fzf	Fly	Fish
+Fly|PH 1	Fish|Macrophage	NS	NS	0	fzf	Fly	Fish
+Fly|PH 1	Fish|B cell	NS	NS	0	fzf	Fly	Fish
+Fly|PH 1	Fish|NK/T cell	NS	NS	0	fzf	Fly	Fish
+Fly|PH	Fish|HSCs	NS	NS	0	fzf	Fly	Fish
+Fly|PH	Fish|Erythroid	NS	NS	0	fzf	Fly	Fish
+Fly|PH	Fish|Neutrophil	NS	NS	0	fzf	Fly	Fish
+Fly|PH	Fish|Macrophage	NS	NS	0	fzf	Fly	Fish
+Fly|PH	Fish|B cell	NS	NS	0	fzf	Fly	Fish
+Fly|PH	Fish|NK/T cell	NS	NS	0	fzf	Fly	Fish
+Fly|PM	Fish|HSCs	NS	NS	0	fzf	Fly	Fish
+Fly|PM	Fish|Erythroid	NS	NS	0	fzf	Fly	Fish
+Fly|PM	Fish|Neutrophil	NS	NS	0	fzf	Fly	Fish
+Fly|PM	Fish|Macrophage	NS	NS	0	fzf	Fly	Fish
+Fly|PM	Fish|B cell	NS	NS	0	fzf	Fly	Fish
+Fly|PM	Fish|NK/T cell	NS	NS	0	fzf	Fly	Fish
+Fly|PM 120	Fish|HSCs	NS	NS	0	fzf	Fly	Fish
+Fly|PM 120	Fish|Erythroid	NS	NS	0	fzf	Fly	Fish
+Fly|PM 120	Fish|Neutrophil	NS	NS	0	fzf	Fly	Fish
+Fly|PM 120	Fish|Macrophage	0.78	Above_threshold:0.75	0.89	fzf	Fly	Fish
+Fly|PM 120	Fish|B cell	NS	NS	0	fzf	Fly	Fish
+Fly|PM 120	Fish|NK/T cell	NS	NS	0	fzf	Fly	Fish
+Fly|LM	Fish|HSCs	NS	NS	0	fzf	Fly	Fish
+Fly|LM	Fish|Erythroid	NS	NS	0	fzf	Fly	Fish
+Fly|LM	Fish|Neutrophil	0.82	Reciprocal_top_hit	0.91	fzf	Fly	Fish
+Fly|LM	Fish|Macrophage	NS	NS	0	fzf	Fly	Fish
+Fly|LM	Fish|B cell	NS	NS	0	fzf	Fly	Fish
+Fly|LM	Fish|NK/T cell	NS	NS	0	fzf	Fly	Fish
+Fly|CC	Fish|HSCs	NS	NS	0	fzf	Fly	Fish
+Fly|CC	Fish|Erythroid	NS	NS	0	fzf	Fly	Fish
+Fly|CC	Fish|Neutrophil	NS	NS	0	fzf	Fly	Fish
+Fly|CC	Fish|Macrophage	NS	NS	0	fzf	Fly	Fish
+Fly|CC	Fish|B cell	NS	NS	0	fzf	Fly	Fish
+Fly|CC	Fish|NK/T cell	0.89	Reciprocal_top_hit	0.445	fzf	Fly	Fish
+Fly|GST-rich	Fish|HSCs	NS	NS	0	fzf	Fly	Fish
+Fly|GST-rich	Fish|Erythroid	NS	NS	0	fzf	Fly	Fish
+Fly|GST-rich	Fish|Neutrophil	NS	NS	0	fzf	Fly	Fish
+Fly|GST-rich	Fish|Macrophage	NS	NS	0	fzf	Fly	Fish
+Fly|GST-rich	Fish|B cell	NS	NS	0	fzf	Fly	Fish
+Fly|GST-rich	Fish|NK/T cell	NS	NS	0	fzf	Fly	Fish
+Fly|Adipohemocyte	Fish|HSCs	NS	NS	0	fzf	Fly	Fish
+Fly|Adipohemocyte	Fish|Erythroid	NS	NS	0	fzf	Fly	Fish
+Fly|Adipohemocyte	Fish|Neutrophil	NS	NS	0	fzf	Fly	Fish
+Fly|Adipohemocyte	Fish|Macrophage	0.81	Reciprocal_top_hit	0.573411950864413	fzf	Fly	Fish
+Fly|Adipohemocyte	Fish|B cell	NS	NS	0	fzf	Fly	Fish
+Fly|Adipohemocyte	Fish|NK/T cell	NS	NS	0	fzf	Fly	Fish
+Fish|HSCs	Mouse|Progenitors	NS	NS	0	fm	Fish	Mouse
+Fish|HSCs	Mouse|Granulocytopoietic cells	0.84	Above_threshold:0.8	0.92	fm	Fish	Mouse
+Fish|HSCs	Mouse|Erythroids	NS	NS	0	fm	Fish	Mouse
+Fish|HSCs	Mouse|Neutrophils	NS	NS	0	fm	Fish	Mouse
+Fish|HSCs	Mouse|Monocytes	NS	NS	0	fm	Fish	Mouse
+Fish|HSCs	Mouse|Macrophage	NS	NS	0	fm	Fish	Mouse
+Fish|HSCs	Mouse|DC	NS	NS	0	fm	Fish	Mouse
+Fish|HSCs	Mouse|pDC	NS	NS	0	fm	Fish	Mouse
+Fish|HSCs	Mouse|Basophil	NS	NS	0	fm	Fish	Mouse
+Fish|HSCs	Mouse|T cells	NS	NS	0	fm	Fish	Mouse
+Fish|HSCs	Mouse|NK cells	NS	NS	0	fm	Fish	Mouse
+Fish|HSCs	Mouse|B cells	NS	NS	0	fm	Fish	Mouse
+Fish|HSCs	Mouse|Plasma cells	NS	NS	0	fm	Fish	Mouse
+Fish|Erythroid	Mouse|Progenitors	NS	NS	0	fm	Fish	Mouse
+Fish|Erythroid	Mouse|Granulocytopoietic cells	NS	NS	0	fm	Fish	Mouse
+Fish|Erythroid	Mouse|Erythroids	1	Reciprocal_top_hit	1	fm	Fish	Mouse
+Fish|Erythroid	Mouse|Neutrophils	NS	NS	0	fm	Fish	Mouse
+Fish|Erythroid	Mouse|Monocytes	NS	NS	0	fm	Fish	Mouse
+Fish|Erythroid	Mouse|Macrophage	NS	NS	0	fm	Fish	Mouse
+Fish|Erythroid	Mouse|DC	NS	NS	0	fm	Fish	Mouse
+Fish|Erythroid	Mouse|pDC	NS	NS	0	fm	Fish	Mouse
+Fish|Erythroid	Mouse|Basophil	NS	NS	0	fm	Fish	Mouse
+Fish|Erythroid	Mouse|T cells	NS	NS	0	fm	Fish	Mouse
+Fish|Erythroid	Mouse|NK cells	NS	NS	0	fm	Fish	Mouse
+Fish|Erythroid	Mouse|B cells	NS	NS	0	fm	Fish	Mouse
+Fish|Erythroid	Mouse|Plasma cells	NS	NS	0	fm	Fish	Mouse
+Fish|Neutrophil	Mouse|Progenitors	NS	NS	0	fm	Fish	Mouse
+Fish|Neutrophil	Mouse|Granulocytopoietic cells	0.86	Above_threshold:0.8	0.833632631621466	fm	Fish	Mouse
+Fish|Neutrophil	Mouse|Erythroids	NS	NS	0	fm	Fish	Mouse
+Fish|Neutrophil	Mouse|Neutrophils	0.92	Reciprocal_top_hit	0.96	fm	Fish	Mouse
+Fish|Neutrophil	Mouse|Monocytes	NS	NS	0	fm	Fish	Mouse
+Fish|Neutrophil	Mouse|Macrophage	NS	NS	0	fm	Fish	Mouse
+Fish|Neutrophil	Mouse|DC	NS	NS	0	fm	Fish	Mouse
+Fish|Neutrophil	Mouse|pDC	NS	NS	0	fm	Fish	Mouse
+Fish|Neutrophil	Mouse|Basophil	NS	NS	0	fm	Fish	Mouse
+Fish|Neutrophil	Mouse|T cells	NS	NS	0	fm	Fish	Mouse
+Fish|Neutrophil	Mouse|NK cells	NS	NS	0	fm	Fish	Mouse
+Fish|Neutrophil	Mouse|B cells	NS	NS	0	fm	Fish	Mouse
+Fish|Neutrophil	Mouse|Plasma cells	NS	NS	0	fm	Fish	Mouse
+Fish|Macrophage	Mouse|Progenitors	NS	NS	0	fm	Fish	Mouse
+Fish|Macrophage	Mouse|Granulocytopoietic cells	NS	NS	0	fm	Fish	Mouse
+Fish|Macrophage	Mouse|Erythroids	NS	NS	0	fm	Fish	Mouse
+Fish|Macrophage	Mouse|Neutrophils	NS	NS	0	fm	Fish	Mouse
+Fish|Macrophage	Mouse|Monocytes	0.95	Reciprocal_top_hit	0.961857567069751	fm	Fish	Mouse
+Fish|Macrophage	Mouse|Macrophage	0.82	Above_threshold:0.8	0.91	fm	Fish	Mouse
+Fish|Macrophage	Mouse|DC	NS	NS	0	fm	Fish	Mouse
+Fish|Macrophage	Mouse|pDC	NS	NS	0	fm	Fish	Mouse
+Fish|Macrophage	Mouse|Basophil	NS	NS	0	fm	Fish	Mouse
+Fish|Macrophage	Mouse|T cells	NS	NS	0	fm	Fish	Mouse
+Fish|Macrophage	Mouse|NK cells	NS	NS	0	fm	Fish	Mouse
+Fish|Macrophage	Mouse|B cells	NS	NS	0	fm	Fish	Mouse
+Fish|Macrophage	Mouse|Plasma cells	NS	NS	0	fm	Fish	Mouse
+Fish|NK/T cell	Mouse|Progenitors	NS	NS	0	fm	Fish	Mouse
+Fish|NK/T cell	Mouse|Granulocytopoietic cells	NS	NS	0	fm	Fish	Mouse
+Fish|NK/T cell	Mouse|Erythroids	NS	NS	0	fm	Fish	Mouse
+Fish|NK/T cell	Mouse|Neutrophils	NS	NS	0	fm	Fish	Mouse
+Fish|NK/T cell	Mouse|Monocytes	NS	NS	0	fm	Fish	Mouse
+Fish|NK/T cell	Mouse|Macrophage	NS	NS	0	fm	Fish	Mouse
+Fish|NK/T cell	Mouse|DC	NS	NS	0	fm	Fish	Mouse
+Fish|NK/T cell	Mouse|pDC	NS	NS	0	fm	Fish	Mouse
+Fish|NK/T cell	Mouse|Basophil	NS	NS	0	fm	Fish	Mouse
+Fish|NK/T cell	Mouse|T cells	0.97	Reciprocal_top_hit	0.985	fm	Fish	Mouse
+Fish|NK/T cell	Mouse|NK cells	0.89	Above_threshold:0.8	0.861684793687204	fm	Fish	Mouse
+Fish|NK/T cell	Mouse|B cells	NS	NS	0	fm	Fish	Mouse
+Fish|NK/T cell	Mouse|Plasma cells	NS	NS	0	fm	Fish	Mouse
+Fish|B cell	Mouse|Progenitors	NS	NS	0	fm	Fish	Mouse
+Fish|B cell	Mouse|Granulocytopoietic cells	NS	NS	0	fm	Fish	Mouse
+Fish|B cell	Mouse|Erythroids	NS	NS	0	fm	Fish	Mouse
+Fish|B cell	Mouse|Neutrophils	NS	NS	0	fm	Fish	Mouse
+Fish|B cell	Mouse|Monocytes	NS	NS	0	fm	Fish	Mouse
+Fish|B cell	Mouse|Macrophage	NS	NS	0	fm	Fish	Mouse
+Fish|B cell	Mouse|DC	NS	NS	0	fm	Fish	Mouse
+Fish|B cell	Mouse|pDC	NS	NS	0	fm	Fish	Mouse
+Fish|B cell	Mouse|Basophil	NS	NS	0	fm	Fish	Mouse
+Fish|B cell	Mouse|T cells	NS	NS	0	fm	Fish	Mouse
+Fish|B cell	Mouse|NK cells	NS	NS	0	fm	Fish	Mouse
+Fish|B cell	Mouse|B cells	0.97	Reciprocal_top_hit	0.985	fm	Fish	Mouse
+Fish|B cell	Mouse|Plasma cells	NS	NS	0	fm	Fish	Mouse
+Mouse|Progenitors	Human|Progenitors	NS	NS	0	mh	Mouse	Human
+Mouse|Progenitors	Human|Granulocyte progenitor	0.92	Above_threshold:0.8	0.898937439537699	mh	Mouse	Human
+Mouse|Progenitors	Human|Erythroids	0.93	Above_threshold:0.8	0.956021410698152	mh	Mouse	Human
+Mouse|Progenitors	Human|Neutrophils	NS	NS	0	mh	Mouse	Human
+Mouse|Progenitors	Human|Monocytes	NS	NS	0	mh	Mouse	Human
+Mouse|Progenitors	Human|Macrophage	NS	NS	0	mh	Mouse	Human
+Mouse|Progenitors	Human|DC	NS	NS	0	mh	Mouse	Human
+Mouse|Progenitors	Human|pDC	NS	NS	0	mh	Mouse	Human
+Mouse|Progenitors	Human|T cells	NS	NS	0	mh	Mouse	Human
+Mouse|Progenitors	Human|CD8 T cells	NS	NS	0	mh	Mouse	Human
+Mouse|Progenitors	Human|NK cells	NS	NS	0	mh	Mouse	Human
+Mouse|Progenitors	Human|pre-PC	NS	NS	0	mh	Mouse	Human
+Mouse|Progenitors	Human|pro-B cells	NS	NS	0	mh	Mouse	Human
+Mouse|Progenitors	Human|pre-B cells	NS	NS	0	mh	Mouse	Human
+Mouse|Progenitors	Human|B cells	NS	NS	0	mh	Mouse	Human
+Mouse|Progenitors	Human|Plasma cells	NS	NS	0	mh	Mouse	Human
+Mouse|Progenitors	Human|Platelet	NS	NS	0	mh	Mouse	Human
+Mouse|Granulocytopoietic cells	Human|Progenitors	NS	NS	0	mh	Mouse	Human
+Mouse|Granulocytopoietic cells	Human|Granulocyte progenitor	NS	NS	0	mh	Mouse	Human
+Mouse|Granulocytopoietic cells	Human|Erythroids	NS	NS	0	mh	Mouse	Human
+Mouse|Granulocytopoietic cells	Human|Neutrophils	0.95	Above_threshold:0.8	0.954838569838111	mh	Mouse	Human
+Mouse|Granulocytopoietic cells	Human|Monocytes	NS	NS	0	mh	Mouse	Human
+Mouse|Granulocytopoietic cells	Human|Macrophage	NS	NS	0	mh	Mouse	Human
+Mouse|Granulocytopoietic cells	Human|DC	NS	NS	0	mh	Mouse	Human
+Mouse|Granulocytopoietic cells	Human|pDC	NS	NS	0	mh	Mouse	Human
+Mouse|Granulocytopoietic cells	Human|T cells	NS	NS	0	mh	Mouse	Human
+Mouse|Granulocytopoietic cells	Human|CD8 T cells	NS	NS	0	mh	Mouse	Human
+Mouse|Granulocytopoietic cells	Human|NK cells	NS	NS	0	mh	Mouse	Human
+Mouse|Granulocytopoietic cells	Human|pre-PC	NS	NS	0	mh	Mouse	Human
+Mouse|Granulocytopoietic cells	Human|pro-B cells	NS	NS	0	mh	Mouse	Human
+Mouse|Granulocytopoietic cells	Human|pre-B cells	NS	NS	0	mh	Mouse	Human
+Mouse|Granulocytopoietic cells	Human|B cells	NS	NS	0	mh	Mouse	Human
+Mouse|Granulocytopoietic cells	Human|Plasma cells	NS	NS	0	mh	Mouse	Human
+Mouse|Granulocytopoietic cells	Human|Platelet	NS	NS	0	mh	Mouse	Human
+Mouse|Erythroids	Human|Progenitors	NS	NS	0	mh	Mouse	Human
+Mouse|Erythroids	Human|Granulocyte progenitor	NS	NS	0	mh	Mouse	Human
+Mouse|Erythroids	Human|Erythroids	1	Reciprocal_top_hit	1	mh	Mouse	Human
+Mouse|Erythroids	Human|Neutrophils	NS	NS	0	mh	Mouse	Human
+Mouse|Erythroids	Human|Monocytes	NS	NS	0	mh	Mouse	Human
+Mouse|Erythroids	Human|Macrophage	NS	NS	0	mh	Mouse	Human
+Mouse|Erythroids	Human|DC	NS	NS	0	mh	Mouse	Human
+Mouse|Erythroids	Human|pDC	NS	NS	0	mh	Mouse	Human
+Mouse|Erythroids	Human|T cells	NS	NS	0	mh	Mouse	Human
+Mouse|Erythroids	Human|CD8 T cells	NS	NS	0	mh	Mouse	Human
+Mouse|Erythroids	Human|NK cells	NS	NS	0	mh	Mouse	Human
+Mouse|Erythroids	Human|pre-PC	NS	NS	0	mh	Mouse	Human
+Mouse|Erythroids	Human|pro-B cells	NS	NS	0	mh	Mouse	Human
+Mouse|Erythroids	Human|pre-B cells	NS	NS	0	mh	Mouse	Human
+Mouse|Erythroids	Human|B cells	NS	NS	0	mh	Mouse	Human
+Mouse|Erythroids	Human|Plasma cells	NS	NS	0	mh	Mouse	Human
+Mouse|Erythroids	Human|Platelet	NS	NS	0	mh	Mouse	Human
+Mouse|Neutrophils	Human|Progenitors	NS	NS	0	mh	Mouse	Human
+Mouse|Neutrophils	Human|Granulocyte progenitor	NS	NS	0	mh	Mouse	Human
+Mouse|Neutrophils	Human|Erythroids	NS	NS	0	mh	Mouse	Human
+Mouse|Neutrophils	Human|Neutrophils	1	Reciprocal_top_hit	0.97043677732113	mh	Mouse	Human
+Mouse|Neutrophils	Human|Monocytes	0.94	Above_threshold:0.8	0.97	mh	Mouse	Human
+Mouse|Neutrophils	Human|Macrophage	NS	NS	0	mh	Mouse	Human
+Mouse|Neutrophils	Human|DC	NS	NS	0	mh	Mouse	Human
+Mouse|Neutrophils	Human|pDC	NS	NS	0	mh	Mouse	Human
+Mouse|Neutrophils	Human|T cells	NS	NS	0	mh	Mouse	Human
+Mouse|Neutrophils	Human|CD8 T cells	NS	NS	0	mh	Mouse	Human
+Mouse|Neutrophils	Human|NK cells	NS	NS	0	mh	Mouse	Human
+Mouse|Neutrophils	Human|pre-PC	NS	NS	0	mh	Mouse	Human
+Mouse|Neutrophils	Human|pro-B cells	NS	NS	0	mh	Mouse	Human
+Mouse|Neutrophils	Human|pre-B cells	NS	NS	0	mh	Mouse	Human
+Mouse|Neutrophils	Human|B cells	NS	NS	0	mh	Mouse	Human
+Mouse|Neutrophils	Human|Plasma cells	NS	NS	0	mh	Mouse	Human
+Mouse|Neutrophils	Human|Platelet	NS	NS	0	mh	Mouse	Human
+Mouse|Monocytes	Human|Progenitors	NS	NS	0	mh	Mouse	Human
+Mouse|Monocytes	Human|Granulocyte progenitor	NS	NS	0	mh	Mouse	Human
+Mouse|Monocytes	Human|Erythroids	NS	NS	0	mh	Mouse	Human
+Mouse|Monocytes	Human|Neutrophils	NS	NS	0	mh	Mouse	Human
+Mouse|Monocytes	Human|Monocytes	0.94	Above_threshold:0.8	0.97	mh	Mouse	Human
+Mouse|Monocytes	Human|Macrophage	0.91	Above_threshold:0.8	0.923893789992241	mh	Mouse	Human
+Mouse|Monocytes	Human|DC	0.84	Above_threshold:0.8	0.876539100167601	mh	Mouse	Human
+Mouse|Monocytes	Human|pDC	NS	NS	0	mh	Mouse	Human
+Mouse|Monocytes	Human|T cells	NS	NS	0	mh	Mouse	Human
+Mouse|Monocytes	Human|CD8 T cells	NS	NS	0	mh	Mouse	Human
+Mouse|Monocytes	Human|NK cells	NS	NS	0	mh	Mouse	Human
+Mouse|Monocytes	Human|pre-PC	NS	NS	0	mh	Mouse	Human
+Mouse|Monocytes	Human|pro-B cells	NS	NS	0	mh	Mouse	Human
+Mouse|Monocytes	Human|pre-B cells	NS	NS	0	mh	Mouse	Human
+Mouse|Monocytes	Human|B cells	NS	NS	0	mh	Mouse	Human
+Mouse|Monocytes	Human|Plasma cells	NS	NS	0	mh	Mouse	Human
+Mouse|Monocytes	Human|Platelet	NS	NS	0	mh	Mouse	Human
+Mouse|Macrophage	Human|Progenitors	NS	NS	0	mh	Mouse	Human
+Mouse|Macrophage	Human|Granulocyte progenitor	NS	NS	0	mh	Mouse	Human
+Mouse|Macrophage	Human|Erythroids	NS	NS	0	mh	Mouse	Human
+Mouse|Macrophage	Human|Neutrophils	NS	NS	0	mh	Mouse	Human
+Mouse|Macrophage	Human|Monocytes	NS	NS	0	mh	Mouse	Human
+Mouse|Macrophage	Human|Macrophage	NS	NS	0	mh	Mouse	Human
+Mouse|Macrophage	Human|DC	NS	NS	0	mh	Mouse	Human
+Mouse|Macrophage	Human|pDC	NS	NS	0	mh	Mouse	Human
+Mouse|Macrophage	Human|T cells	NS	NS	0	mh	Mouse	Human
+Mouse|Macrophage	Human|CD8 T cells	NS	NS	0	mh	Mouse	Human
+Mouse|Macrophage	Human|NK cells	NS	NS	0	mh	Mouse	Human
+Mouse|Macrophage	Human|pre-PC	NS	NS	0	mh	Mouse	Human
+Mouse|Macrophage	Human|pro-B cells	NS	NS	0	mh	Mouse	Human
+Mouse|Macrophage	Human|pre-B cells	NS	NS	0	mh	Mouse	Human
+Mouse|Macrophage	Human|B cells	NS	NS	0	mh	Mouse	Human
+Mouse|Macrophage	Human|Plasma cells	NS	NS	0	mh	Mouse	Human
+Mouse|Macrophage	Human|Platelet	NS	NS	0	mh	Mouse	Human
+Mouse|DC	Human|Progenitors	NS	NS	0	mh	Mouse	Human
+Mouse|DC	Human|Granulocyte progenitor	NS	NS	0	mh	Mouse	Human
+Mouse|DC	Human|Erythroids	NS	NS	0	mh	Mouse	Human
+Mouse|DC	Human|Neutrophils	NS	NS	0	mh	Mouse	Human
+Mouse|DC	Human|Monocytes	NS	NS	0	mh	Mouse	Human
+Mouse|DC	Human|Macrophage	NS	NS	0	mh	Mouse	Human
+Mouse|DC	Human|DC	NS	NS	0	mh	Mouse	Human
+Mouse|DC	Human|pDC	NS	NS	0	mh	Mouse	Human
+Mouse|DC	Human|T cells	NS	NS	0	mh	Mouse	Human
+Mouse|DC	Human|CD8 T cells	NS	NS	0	mh	Mouse	Human
+Mouse|DC	Human|NK cells	NS	NS	0	mh	Mouse	Human
+Mouse|DC	Human|pre-PC	NS	NS	0	mh	Mouse	Human
+Mouse|DC	Human|pro-B cells	NS	NS	0	mh	Mouse	Human
+Mouse|DC	Human|pre-B cells	NS	NS	0	mh	Mouse	Human
+Mouse|DC	Human|B cells	NS	NS	0	mh	Mouse	Human
+Mouse|DC	Human|Plasma cells	NS	NS	0	mh	Mouse	Human
+Mouse|DC	Human|Platelet	NS	NS	0	mh	Mouse	Human
+Mouse|pDC	Human|Progenitors	NS	NS	0	mh	Mouse	Human
+Mouse|pDC	Human|Granulocyte progenitor	NS	NS	0	mh	Mouse	Human
+Mouse|pDC	Human|Erythroids	NS	NS	0	mh	Mouse	Human
+Mouse|pDC	Human|Neutrophils	NS	NS	0	mh	Mouse	Human
+Mouse|pDC	Human|Monocytes	NS	NS	0	mh	Mouse	Human
+Mouse|pDC	Human|Macrophage	NS	NS	0	mh	Mouse	Human
+Mouse|pDC	Human|DC	NS	NS	0	mh	Mouse	Human
+Mouse|pDC	Human|pDC	0.92	Reciprocal_top_hit	0.96	mh	Mouse	Human
+Mouse|pDC	Human|T cells	NS	NS	0	mh	Mouse	Human
+Mouse|pDC	Human|CD8 T cells	NS	NS	0	mh	Mouse	Human
+Mouse|pDC	Human|NK cells	NS	NS	0	mh	Mouse	Human
+Mouse|pDC	Human|pre-PC	NS	NS	0	mh	Mouse	Human
+Mouse|pDC	Human|pro-B cells	NS	NS	0	mh	Mouse	Human
+Mouse|pDC	Human|pre-B cells	NS	NS	0	mh	Mouse	Human
+Mouse|pDC	Human|B cells	NS	NS	0	mh	Mouse	Human
+Mouse|pDC	Human|Plasma cells	NS	NS	0	mh	Mouse	Human
+Mouse|pDC	Human|Platelet	NS	NS	0	mh	Mouse	Human
+Mouse|Basophil	Human|Progenitors	NS	NS	0	mh	Mouse	Human
+Mouse|Basophil	Human|Granulocyte progenitor	NS	NS	0	mh	Mouse	Human
+Mouse|Basophil	Human|Erythroids	NS	NS	0	mh	Mouse	Human
+Mouse|Basophil	Human|Neutrophils	NS	NS	0	mh	Mouse	Human
+Mouse|Basophil	Human|Monocytes	NS	NS	0	mh	Mouse	Human
+Mouse|Basophil	Human|Macrophage	NS	NS	0	mh	Mouse	Human
+Mouse|Basophil	Human|DC	NS	NS	0	mh	Mouse	Human
+Mouse|Basophil	Human|pDC	NS	NS	0	mh	Mouse	Human
+Mouse|Basophil	Human|T cells	NS	NS	0	mh	Mouse	Human
+Mouse|Basophil	Human|CD8 T cells	NS	NS	0	mh	Mouse	Human
+Mouse|Basophil	Human|NK cells	NS	NS	0	mh	Mouse	Human
+Mouse|Basophil	Human|pre-PC	NS	NS	0	mh	Mouse	Human
+Mouse|Basophil	Human|pro-B cells	NS	NS	0	mh	Mouse	Human
+Mouse|Basophil	Human|pre-B cells	NS	NS	0	mh	Mouse	Human
+Mouse|Basophil	Human|B cells	NS	NS	0	mh	Mouse	Human
+Mouse|Basophil	Human|Plasma cells	NS	NS	0	mh	Mouse	Human
+Mouse|Basophil	Human|Platelet	NS	NS	0	mh	Mouse	Human
+Mouse|T cells	Human|Progenitors	NS	NS	0	mh	Mouse	Human
+Mouse|T cells	Human|Granulocyte progenitor	NS	NS	0	mh	Mouse	Human
+Mouse|T cells	Human|Erythroids	NS	NS	0	mh	Mouse	Human
+Mouse|T cells	Human|Neutrophils	NS	NS	0	mh	Mouse	Human
+Mouse|T cells	Human|Monocytes	NS	NS	0	mh	Mouse	Human
+Mouse|T cells	Human|Macrophage	NS	NS	0	mh	Mouse	Human
+Mouse|T cells	Human|DC	NS	NS	0	mh	Mouse	Human
+Mouse|T cells	Human|pDC	NS	NS	0	mh	Mouse	Human
+Mouse|T cells	Human|T cells	0.92	Above_threshold:0.8	0.96	mh	Mouse	Human
+Mouse|T cells	Human|CD8 T cells	0.95	Reciprocal_top_hit	0.969086257865596	mh	Mouse	Human
+Mouse|T cells	Human|NK cells	NS	NS	0	mh	Mouse	Human
+Mouse|T cells	Human|pre-PC	NS	NS	0	mh	Mouse	Human
+Mouse|T cells	Human|pro-B cells	NS	NS	0	mh	Mouse	Human
+Mouse|T cells	Human|pre-B cells	NS	NS	0	mh	Mouse	Human
+Mouse|T cells	Human|B cells	NS	NS	0	mh	Mouse	Human
+Mouse|T cells	Human|Plasma cells	NS	NS	0	mh	Mouse	Human
+Mouse|T cells	Human|Platelet	NS	NS	0	mh	Mouse	Human
+Mouse|NK cells	Human|Progenitors	NS	NS	0	mh	Mouse	Human
+Mouse|NK cells	Human|Granulocyte progenitor	NS	NS	0	mh	Mouse	Human
+Mouse|NK cells	Human|Erythroids	NS	NS	0	mh	Mouse	Human
+Mouse|NK cells	Human|Neutrophils	NS	NS	0	mh	Mouse	Human
+Mouse|NK cells	Human|Monocytes	NS	NS	0	mh	Mouse	Human
+Mouse|NK cells	Human|Macrophage	NS	NS	0	mh	Mouse	Human
+Mouse|NK cells	Human|DC	NS	NS	0	mh	Mouse	Human
+Mouse|NK cells	Human|pDC	NS	NS	0	mh	Mouse	Human
+Mouse|NK cells	Human|T cells	NS	NS	0	mh	Mouse	Human
+Mouse|NK cells	Human|CD8 T cells	NS	NS	0	mh	Mouse	Human
+Mouse|NK cells	Human|NK cells	0.99	Reciprocal_top_hit	0.995	mh	Mouse	Human
+Mouse|NK cells	Human|pre-PC	NS	NS	0	mh	Mouse	Human
+Mouse|NK cells	Human|pro-B cells	NS	NS	0	mh	Mouse	Human
+Mouse|NK cells	Human|pre-B cells	NS	NS	0	mh	Mouse	Human
+Mouse|NK cells	Human|B cells	NS	NS	0	mh	Mouse	Human
+Mouse|NK cells	Human|Plasma cells	NS	NS	0	mh	Mouse	Human
+Mouse|NK cells	Human|Platelet	NS	NS	0	mh	Mouse	Human
+Mouse|B cells	Human|Progenitors	NS	NS	0	mh	Mouse	Human
+Mouse|B cells	Human|Granulocyte progenitor	NS	NS	0	mh	Mouse	Human
+Mouse|B cells	Human|Erythroids	NS	NS	0	mh	Mouse	Human
+Mouse|B cells	Human|Neutrophils	NS	NS	0	mh	Mouse	Human
+Mouse|B cells	Human|Monocytes	NS	NS	0	mh	Mouse	Human
+Mouse|B cells	Human|Macrophage	NS	NS	0	mh	Mouse	Human
+Mouse|B cells	Human|DC	NS	NS	0	mh	Mouse	Human
+Mouse|B cells	Human|pDC	NS	NS	0	mh	Mouse	Human
+Mouse|B cells	Human|T cells	NS	NS	0	mh	Mouse	Human
+Mouse|B cells	Human|CD8 T cells	NS	NS	0	mh	Mouse	Human
+Mouse|B cells	Human|NK cells	NS	NS	0	mh	Mouse	Human
+Mouse|B cells	Human|pre-PC	0.91	Above_threshold:0.8	0.887948677141942	mh	Mouse	Human
+Mouse|B cells	Human|pro-B cells	0.91	Above_threshold:0.8	0.955	mh	Mouse	Human
+Mouse|B cells	Human|pre-B cells	0.98	Above_threshold:0.8	0.974677344904901	mh	Mouse	Human
+Mouse|B cells	Human|B cells	0.99	Reciprocal_top_hit	0.860529855140896	mh	Mouse	Human
+Mouse|B cells	Human|Plasma cells	NS	NS	0	mh	Mouse	Human
+Mouse|B cells	Human|Platelet	NS	NS	0	mh	Mouse	Human
+Mouse|Plasma cells	Human|Progenitors	NS	NS	0	mh	Mouse	Human
+Mouse|Plasma cells	Human|Granulocyte progenitor	NS	NS	0	mh	Mouse	Human
+Mouse|Plasma cells	Human|Erythroids	NS	NS	0	mh	Mouse	Human
+Mouse|Plasma cells	Human|Neutrophils	NS	NS	0	mh	Mouse	Human
+Mouse|Plasma cells	Human|Monocytes	NS	NS	0	mh	Mouse	Human
+Mouse|Plasma cells	Human|Macrophage	NS	NS	0	mh	Mouse	Human
+Mouse|Plasma cells	Human|DC	NS	NS	0	mh	Mouse	Human
+Mouse|Plasma cells	Human|pDC	NS	NS	0	mh	Mouse	Human
+Mouse|Plasma cells	Human|T cells	NS	NS	0	mh	Mouse	Human
+Mouse|Plasma cells	Human|CD8 T cells	NS	NS	0	mh	Mouse	Human
+Mouse|Plasma cells	Human|NK cells	NS	NS	0	mh	Mouse	Human
+Mouse|Plasma cells	Human|pre-PC	NS	NS	0	mh	Mouse	Human
+Mouse|Plasma cells	Human|pro-B cells	NS	NS	0	mh	Mouse	Human
+Mouse|Plasma cells	Human|pre-B cells	NS	NS	0	mh	Mouse	Human
+Mouse|Plasma cells	Human|B cells	NS	NS	0	mh	Mouse	Human
+Mouse|Plasma cells	Human|Plasma cells	1	Reciprocal_top_hit	1	mh	Mouse	Human
+Mouse|Plasma cells	Human|Platelet	NS	NS	0	mh	Mouse	Human
