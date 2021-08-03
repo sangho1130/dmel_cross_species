@@ -1,0 +1,349 @@
+Fly (ref)	Fly_FF	Fish_FF	Fly_FM	Mouse_FM	Fly_FH	Human_FH
+alphaTub85E			alphaTub85E	Tuba1a	alphaTub85E	TUBA1A
+betaTub60D	betaTub60D	tubb6	betaTub60D	Tubb3	betaTub60D	TUBB6
+CG33225			CG33225	Prss45		
+mthl4	mthl4	adgre14	mthl4	Adgre1	mthl4	ADGRF1
+RapGAP1	RapGAP1	rap1gap2a	RapGAP1	Rap1gap	RapGAP1	RAP1GAP
+ItgaPS4	ItgaPS4	itga4	ItgaPS4	Itga9	ItgaPS4	ITGA4
+Drip	Drip	aqp4	Drip	Aqp4		
+Acbp2	Acbp2	dbi			Acbp2	DBI
+Jupiter					Jupiter	JPT1
+shot	shot	macf1a	shot	Dst	shot	DST
+Treh	Treh	treh	Treh	Treh	Treh	TREH
+Ggamma30A	Ggamma30A	gng13b	Ggamma30A	Gng13	Ggamma30A	GNG13
+mys	mys	itgb1a	mys	Itgb1	mys	ITGB1
+Fit1	Fit1	fermt2	Fit1	Fermt2	Fit1	FERMT2
+Rap1	Rap1	rap1aa	Rap1	Rap1a	Rap1	RAP1A
+Cam			Cam	Calm3	Cam	CALM1
+CG9932	CG9932	zfp64	CG9932	Zfp462	CG9932	ZNF462
+CG5734	CG5734	snx17	CG5734	Snx17	CG5734	SNX17
+Act42A			Act42A	Actb		
+CG9328	CG9328	fam107b	CG9328	Fam107b	CG9328	FAM107B
+Eb1	Eb1	mapre1a	Eb1	Mapre1	Eb1	MAPRE1
+Ac78C	Ac78C	adcy8	Ac78C	Adcy8	rhea	TLN2
+rhea	rhea	tln2a	rhea	Tln2		
+twf	twf	twf1b	twf	Twf1	twf	TWF1
+sigmar	sigmar	tnfaip8l1	sigmar	Tnfaip8	sigmar	TNFAIP8
+Adk1	Adk1	ak1	Adk1	Ak1	Adk1	AK1
+pod1	pod1	coro7	pod1	Coro7	pod1	CORO7-PAM16
+CAP	CAP	sorbs3	CAP	Sorbs3	CAP	SORBS3
+Itgbn	Itgbn	itgb7				
+cher	cher	flncb	cher	Flna	cher	FLNA
+betaTub97EF	betaTub97EF	tubb2	betaTub97EF	Tubb2a	betaTub97EF	TUBB2A
+Sema1b			Sema1b	Sema6b	Sema1b	SEMA6B
+Rab11	Rab11	rab11a	Rab11	Rab11b	Rab11	RAB11A
+ATP8A	ATP8A	atp8a2	ATP8A	Atp8a1	ATP8A	ATP8A1
+LamC	LamC	lmnb2	LamC	Lmnb2	LamC	LMNB2
+CG42675	CG42675	zc2hc1a			CG42675	ZC2HC1A
+alphaTub84B	alphaTub84B	tuba1a	alphaTub84B	Tuba3b	alphaTub84B	TUBA3D
+Frl	Frl	fmnl2a	Frl	Fmnl1	Frl	FMNL3
+prominin-like	prominin-like	prom1a	prominin-like	Prom1	prominin-like	PROM1
+Cp1			Cp1	Ctsl	Cp1	CTSV
+CG4793			CG4793	Prss28	CG4793	TPSB2
+Pax	Pax	pxna	Pax	Pxn	Pax	PXN
+CG8312	CG8312	fam43a	CG8312	Fam43a	CG8312	FAM43A
+ringer					ringer	TPPP3
+nuf	nuf	rab11fip4a	nuf	Rab11fip4	nuf	RAB11FIP4
+Gapdh2	Gapdh2	gapdh				
+mew	mew	itga6a	mew	Itga6	mew	ITGA6
+Dgk	Dgk	dgkaa	Dgk	Dgkb	Dgk	DGKB
+Rab35	Rab35	rab35b	Rab35	Rab35	Rab35	RAB35
+Abl	Abl	abl2	Abl	Abl2	Abl	ABL2
+Adgf-A			Adgf-A	Ada	Adgf-A	ADA2
+bves	bves	bves	bves	Bves	bves	BVES
+krz	krz	arrb1	krz	Arrb1	krz	ARRB1
+ItgaPS5					ItgaPS5	ITGA9
+wun2	wun2	plpp3	wun2	Plpp1	wun2	PLPP3
+Scamp	Scamp	scamp1	Scamp	Scamp1	Scamp	SCAMP3
+CG17841			CG17841	Fam57b		
+CG31729	CG31729	atp9b	CG31729	Atp9b	CG31729	ATP9B
+CG4511	CG4511	txndc9	CG4511	Txndc9	CG4511	TXNDC9
+ifc	ifc	degs2	ifc	Degs2	ifc	DEGS2
+rdgB	rdgB	pitpnm3	rdgB	Pitpnm2	rdgB	PITPNM2
+Gdap2	Gdap2	gdap2	Gdap2	Gdap2	Gdap2	GDAP2
+Ras85D	Ras85D	kras	Ras85D	Kras	Ras85D	HRAS
+glob1	glob1	cygb1	glob1	Cygb	glob1	CYGB
+MESK2	MESK2	ndrg3b	MESK2	Ndrg1	MESK2	NDRG3
+NKAIN	NKAIN	nkain1	NKAIN	Nkain3	NKAIN	NKAIN2
+CG7956	CG7956	inpp5f	CG7956	Inpp5f	CG7956	INPP5F
+C3G	C3G	rapgef1b	C3G	Rapgef1	C3G	RAPGEF1
+lap	lap	picalma	lap	Picalm	lap	PICALM
+Gprk2	Gprk2	grk4	Gprk2	Grk5	Gprk2	GRK5
+aru			aru	Eps8l2	aru	EPS8L2
+CG32264	CG32264	phactr2	CG32264	Phactr1	CG32264	PHACTR1
+Vinc	Vinc	vcla	Vinc	Vcl	Vinc	VCL
+CalpA			CalpA	Capn9	CalpA	CAPN9
+Dhpr	Dhpr	qdpra	Dhpr	Qdpr	Dhpr	QDPR
+Sep4	Sep4	sept5a	Sep4	Sept5		
+Fim	Fim	pls3	Fim	Lcp1	Fim	LCP1
+Klp98A	Klp98A	kif16ba	Klp98A	Kif16b	Klp98A	KIF16B
+ens	ens	map7d3	ens	Map7d1	ens	MAP7D1
+parvin	parvin	parvab	parvin	Parvb	parvin	PARVB
+Pfdn4	Pfdn4	pfdn4	Pfdn4	Pfdn4	Pfdn4	PFDN4
+tsr	tsr	cfl1l	tsr	Cfl1	tsr	CFL2
+Clic	Clic	clic5a	Clic	Clic5	Clic	CLIC2
+Tpi	Tpi	tpi1a	Tpi	Tpi1	Tpi	TPI1
+Snx6	Snx6	snx6	Snx6	Snx6	Snx6	SNX6
+Rab1	Rab1	rab1ab	Rab1	Rab1a	Rab1	RAB1A
+CG33111	CG33111	shtn1	CG33111	Shtn1	CG33111	SHTN1
+Syx1A	Syx1A	stx1b	Syx1A	Stx1a	Syx1A	STX1A
+Pak3			Pak3	Pak3		
+GramD1B			GramD1B	Gramd1a	GramD1B	GRAMD1B
+Uvrag	Uvrag	uvrag	Uvrag	Uvrag	Uvrag	UVRAG
+Ras64B	Ras64B	rras2	Ras64B	Rras2	Ras64B	RRAS2
+Ilk	Ilk	ilk	Ilk	Ilk	Ilk	ILK
+CG7497	CG7497	ptger3	CG7497	Ptger4	CG7497	PTGER3
+Irk1					Irk1	KCNJ2
+Ipp			Ipp	Inpp1	Ipp	INPP1
+Lnpk			Lnpk	Lnpk	Lnpk	LNPK
+CG1943					CG1943	JPT2
+Gp93	Gp93	hsp90b1	Gp93	Hsp90b1	Gp93	HSP90B1
+CG9149	CG9149	acat2	CG9149	Acat2	CG9149	ACAT2
+Esyt2	Esyt2	esyt2a	Esyt2	Esyt2	Esyt2	ESYT2
+Rhp	Rhp	rhpn2	Rhp	Rhpn1	Rhp	RHPN2
+RhoGDI	RhoGDI	arhgdig	RhoGDI	Arhgdia	RhoGDI	ARHGDIA
+Arpc2	Arpc2	arpc2	Arpc2	Arpc2	Arpc2	ARPC2
+Pka-R1	Pka-R1	prkar1aa	Pka-R1	Prkar1a	Pka-R1	PRKAR1A
+wun					wun	PLPP1
+Rap2l	Rap2l	rap2b	Rap2l	Rap2b	Rap2l	RAP2B
+Abi	Abi	abi2a	Abi	Abi1	Abi	ABI2
+Nhe2	Nhe2	slc9a3.1	Nhe2	Slc9a5	Nhe2	SLC9A5
+Vha68-2	Vha68-2	atp6v1ab	Vha68-2	Atp6v1a	Vha68-2	ATP6V1A
+SCAR	SCAR	wasf2	SCAR	Wasf3	SCAR	WASF3
+Exn	Exn	ngef	Exn	Ngef	Exn	NGEF
+Rab6	Rab6	rab6bb	Rab6	Rab6a	Rab6	RAB6A
+Pfdn1	Pfdn1	pfdn1	Pfdn1	Pfdn1	Pfdn1	PFDN1
+Tomosyn	Tomosyn	stxbp5b	Tomosyn	Stxbp5l	Tomosyn	STXBP5
+Myo61F	Myo61F	myo1cb	Myo61F	Myo1c	Myo61F	MYO1C
+Myo28B1			Myo28B1	Myo7b	Myo28B1	MYO7B
+CCT4	CCT4	cct4	CCT4	Cct4	CCT4	CCT4
+CG32147	CG32147	pgpep1	CG32147	Pgpep1	CG32147	PGPEP1
+Pis	Pis	cdipt	Pis	Cdipt	Pis	CDIPT
+Pglym78	Pglym78	pgam1a	Pglym78	Pgam1	Pglym78	PGAM1
+galectin	drongo	agfg1a	galectin	Lgals9	galectin	LGALS9
+CG6983			CG6983	1700037H04Rik	CG6983	C20orf27
+CG10359			CG10359	Fcna		
+drongo			drongo	Agfg1	drongo	AGFG1
+TBCB	TBCB	tbcb	TBCB	Tbcb	TBCB	TBCB
+Pfdn2	Pfdn2	pfdn2	Pfdn2	Pfdn2	Pfdn2	PFDN2
+Pfdn6	Pfdn6	pfdn6	Pfdn6	Pfdn6	Pfdn6	PFDN6
+Galphai	Galphai	gnai1	Galphai	Gnai1	Galphai	GNAI1
+sfl	sfl	ndst2a	sfl	Ndst2	sfl	NDST2
+msn	msn	tnikb	msn	Mink1	msn	TNIK
+CG10947			CG10947	Camkmt	CG10947	CAMKMT
+Khc	Khc	kif5ba	Khc	Kif5b	Khc	KIF5B
+Mo25	Mo25	cab39l	Mo25	Cab39	Mo25	CAB39
+Khc-73	Khc-73	kif13a	Khc-73	Kif13a	Khc-73	KIF13A
+CCT5	CCT5	cct5	CCT5	Cct5	CCT5	CCT5
+CG14894	CG14894	ttc1	CG14894	Ttc1	CG14894	TTC1
+capu	capu	fmn2b	capu	Fmn2	capu	FMN2
+cnn			cnn	Pde4dip	cnn	CDK5RAP2
+flr	flr	wdr1	flr	Wdr1	flr	WDR1
+Lmpt	Lmpt	fhl2b	Lmpt	Fhl2	Lmpt	FHL2
+Pp1-87B	Pp1-87B	ppp1cc	Pp1-87B	Ppp1ca	Pp1-87B	PPP1CC
+CCT7	CCT7	cct7	CCT7	Cct7	CCT7	CCT7
+mgr	mgr	vbp1	mgr	Vbp1	mgr	VBP1
+CCT2			CCT2	Cct2	CCT2	CCT2
+CG42663			CG42663	Nckap5	CG42663	NCKAP5
+smash	smash	limch1a	smash	Limch1	smash	LIMCH1
+Stim	Stim	stim1a	Stim	Stim1	Stim	STIM1
+Tao	Tao	taok3a	Tao	Taok1	Tao	TAOK1
+sra	sra	rcan3	sra	Rcan2	sra	RCAN2
+CG7668	CG7668	angptl7				
+CG1607	CG1607	slc7a6	CG1607	Slc7a6	CG1607	SLC7A6
+Cip4	Cip4	trip10a	Cip4	Trip10	Cip4	TRIP10
+CCT3	CCT3	cct3	CCT3	Cct3	CCT3	CCT3
+Chd64	Chd64	cnn3b	CCT6	Cct6a	CCT6	CCT6A
+CCT6	CCT6	cct6a				
+zda	zda	fkbp8	zda	Fkbp8	zda	FKBP8
+RNaseX25	RNaseX25	rnaset2	RNaseX25	Rnaset2b	RNaseX25	RNASET2
+mrj	mrj	dnajb6b	mrj	Dnajb6	mrj	DNAJB2
+CG12012	CG12012	bri3	CG12012	Bri3	CG12012	BRI3
+CG9391	CG9391	impa1	CG9391	Impa1	CG9391	IMPA1
+Meltrin	Meltrin	adam12	Meltrin	Adam12	Meltrin	ADAM12
+chb	chb	clasp2	chb	Clasp1	chb	CLASP1
+CycY	CycY	ccny	CycY	Ccny	CycY	CCNY
+Atg18b			Atg18b	Wipi1	Atg18b	WIPI1
+Syx7	Syx7	stx12	Syx7	Stx7	Syx7	STX7
+Indy	Indy	slc13a1	Indy	Slc13a2		
+Galphaq	Galphaq	gna11a	Galphaq	Gnaq	Galphaq	GNAQ
+AP-2sigma	AP-2sigma	ap2s1	AP-2sigma	Ap2s1	AP-2sigma	AP2S1
+CG5721			CG5721	Armc6	CG5721	ARMC6
+CG5676	CG5676	fundc1	CG5676	Fundc1	CG5676	FUNDC1
+CG33090	CG33090	gba2	CG33090	Gba2	CG33090	GBA2
+Ank	Ank	ank1b	Ank	Ank1	Ank	ANK1
+Spt-I	Spt-I	sptlc1	Spt-I	Sptlc1	Spt-I	SPTLC1
+GAPcenA	GAPcenA	rabgap1l	GAPcenA	Rabgap1	GAPcenA	RABGAP1L
+pnr	pnr	gata5	pnr	Gata4	pnr	GATA4
+yki	yki	yap1	yki	Yap1	yki	YAP1
+ReepB	ReepB	reep5	ReepB	Reep5	ReepB	REEP5
+Clc	Clc	clta	Clc	Cltb	Clc	CLTA
+gammaSnap1	gammaSnap1	napga	gammaSnap1	Napg	gammaSnap1	NAPG
+CG5934	CG5934	scocb	CG5934	Scoc	CG5934	SCOC
+inaE	inaE	dagla	inaE	Dagla	inaE	DAGLA
+Arf102F			Arf102F	Arf4	Arf102F	ARF4
+Drp1	Drp1	dnm1l	Drp1	Dnm1l	Drp1	DNM1L
+Vha13	Vha13	atp6v1g1	Vha13	Atp6v1g2	Vha13	ATP6V1G2
+Arl2	Arl2	arl2	Arl2	Arl2	Arl2	ARL2
+CG17746			CG17746	Ppm1n		
+flw	flw	ppp1cb	flw	Ppp1cb	flw	PPP1CB
+Arp2	Arp2	actr2a	Arp2	Actr2	Arp2	ACTR2
+CG3662	CG3662	itm2ba	CG3662	Itm2b	CG3662	ITM2B
+Wbp2	Wbp2	wbp2	Wbp2	Wbp2	Wbp2	WBP2
+VhaAC39-1	VhaAC39-1	atp6v0d1	VhaAC39-1	Atp6v0d1	VhaAC39-1	ATP6V0D1
+foxo	foxo	foxo1a	foxo	Foxo1	foxo	FOXO3
+RhoGAP68F	RhoGAP68F	arhgap1	RhoGAP68F	Arhgap1	RhoGAP68F	ARHGAP1
+CG31715	CG31715	mtpn	CG31715	Mtpn	CG31715	MTPN
+SpdS	SpdS	srm	SpdS	Srm	SpdS	SRM
+CG5554	CG5554	tmx1	CG5554	Tmx1	CG5554	TMX1
+Zasp52	Zasp52	pdlim7	Zasp52	Ldb3	Zasp52	LDB3
+Pfdn5	Pfdn5	pfdn5	Pfdn5	Pfdn5	Pfdn5	PFDN5
+Hip1	Hip1	hip1	Hip1	Hip1r	Hip1	HIP1
+CG10425	CG10425	kdsr	CG10425	Kdsr	CG10425	KDSR
+Mbs	Mbs	ppp1r12a	Mbs	Ppp1r12a	Mbs	PPP1R12B
+CCT1	CCT1	tcp1	CCT1	Tcp1	CCT1	TCP1
+iPLA2-VIA	iPLA2-VIA	pla2g6	iPLA2-VIA	Pla2g6	iPLA2-VIA	PLA2G6
+AP-1sigma	AP-1sigma	ap1s1	AP-1sigma	Ap1s2	AP-1sigma	AP1S2
+Klc	Klc	klc1a	Klc	Klc1	Klc	KLC1
+Vha55	Vha55	atp6v1b2	Vha55	Atp6v1b2	Vha55	ATP6V1B2
+Arf51F	Arf51F	arf6a	Arf51F	Arf6	Arf51F	ARF6
+CG8176	CG8176	fcho2	CG8176	Fcho2	CG8176	FCHO2
+CG40228	CG40228	elof1	CG40228	Elof1	CG40228	ELOF1
+CenB1A	CenB1A	acap3a	CenB1A	Acap2	CenB1A	ACAP2
+vap	vap	rasa1a	vap	Rasa1	vap	RASA1
+qm	qm	ggps1	qm	Ggps1	qm	GGPS1
+Myd88	Myd88	myd88	Myd88	Myd88	Myd88	MYD88
+Rtnl1	Rtnl1	rtn1b	Rtnl1	Rtn1	Rtnl1	RTN4
+epsilonCOP	epsilonCOP	cope	epsilonCOP	Cope	epsilonCOP	COPE
+Cals	Cals	clstn2	Cals	Clstn2	Cals	CLSTN2
+nes	nes	lpcat3	nes	Lpcat3	nes	LPCAT3
+Ykt6	Ykt6	ykt6	Ykt6	Ykt6	Ykt6	YKT6
+HSPC300	HSPC300	brk1	HSPC300	Brk1	HSPC300	BRK1
+Epac	Epac	rapgef4	Epac	Rapgef4	Epac	RAPGEF4
+Pkc98E	Pkc98E	prkcea	Pkc98E	Prkce	Pkc98E	PRKCE
+Kal1	Kal1	anos1b	Kal1	Wfdc17	Kal1	ANOS1
+CG17754	CG17754	klhl5	CG17754	Klhl5	CG17754	KLHL5
+Pvf2					Pvf2	VEGFC
+Mob4	Mob4	mob4	Mob4	Mob4	Mob4	MOB4
+Sra-1	Sra-1	cyfip2	Sra-1	Cyfip2	Sra-1	CYFIP2
+PIG-V	PIG-V	pigv	PIG-V	Pigv	PIG-V	PIGV
+CG7220	CG7220	flj11011l	CG7220	Ube2w	CG7220	UBE2W
+Cyt-b5	Cyt-b5	cyb5a	Cyt-b5	Cyb5a	Cyt-b5	CYB5B
+Vha14-1	Vha14-1	atp6v1f	Vha14-1	Atp6v1f	Vha14-1	ATP6V1F
+LIMK1	LIMK1	limk1a	LIMK1	Limk1	LIMK1	LIMK1
+Jwa	Jwa	arl6ip5a	Jwa	Arl6ip5	Jwa	ARL6IP5
+Ced-12	Ced-12	elmo1	Ced-12	Elmo1	Ced-12	ELMO1
+RagA-B	RagA-B	rraga	RagA-B	Rragb	RagA-B	RRAGB
+Arp1	Arp1	actr1	Arp1	Actr1a	Arp1	ACTR1A
+FucTB	FucTB	fut10	FucTB	Fut10	FucTB	FUT10
+Gos28	Gos28	gosr1	Gos28	Gosr1	Gos28	GOSR1
+Ctl2	Ctl2	slc44a5b	Ctl2	Slc44a2	Ctl2	SLC44A4
+slim	slim	klhdc10	slim	Klhdc10	slim	KLHDC10
+Arf79F	Arf79F	arf2a	Arf79F	Arf1	Arf79F	ARF1
+hppy	hppy	map4k3a	hppy	Map4k3	hppy	MAP4K3
+CG33298	CG33298	atp10d	CG33298	Atp10b	CG33298	ATP10D
+Nhe1	Nhe1	slc9a8	Nhe1	Slc9a8	Nhe1	SLC9A8
+Apc	Apc	apc2	Apc	Apc	Apc	APC
+Syx8	Syx8	stx8	Syx8	Stx8	Syx8	STX8
+CG10444	CG10444	slc5a12	CG10444	Slc5a12	CG10444	SLC5A12
+Usp12-46	Usp12-46	usp46	Usp12-46	Usp46	Usp12-46	USP46
+Hem	Hem	nckap1	Hem	Nckap1	Hem	NCKAP1
+hook	hook	hook1	hook	Hook3	hook	HOOK3
+cag			cag	Cenpb	cag	CENPB
+vimar			vimar	Rap1gds1	vimar	RAP1GDS1
+Klp64D	Klp64D	kif3a	Klp64D	Kif3a	Klp64D	KIF3A
+Atg13	Atg13	atg13	Atg13	Atg13	Atg13	ATG13
+Madm	Madm	nrbp1	Madm	Nrbp1	Madm	NRBP1
+eff	eff	ube2d3	eff	Ube2d2a	eff	UBE2D2
+Golgin245	Golgin245	golga4	Golgin245	Golga4	Golgin245	GOLGA4
+Synj	Synj	synj1	Synj	Synj1	Synj	SYNJ1
+CG10874	CG10874	ccdc28b	CG10874	Ccdc28a	CG10874	CCDC28A
+ric8a	ric8a	ric8a	ric8a	Ric8b	ric8a	RIC8A
+Rala	Rala	ralaa	Rala	Rala	Rala	RALA
+Pdss2	Pdss2	pdss2	Pdss2	Pdss2	Pdss2	PDSS2
+Vps26	Vps26	vps26bl	Vps26	Vps26b	Vps26	VPS26B
+CCT8	CCT8	cct8	CCT8	Cct8	CCT8	CCT8
+CG9775			CG9775	Chtop	CG9775	CHTOP
+CG2818	CG2818	gpcpd1	CG2818	Gpcpd1	CG2818	GPCPD1
+Unc-76			Unc-76	Fez2	Unc-76	FEZ2
+CG11779	CG11779	timm44	CG11779	Timm44	CG11779	TIMM44
+CG14903	CG14903	ptrhd1	CG14903	Ptrhd1	CG14903	PTRHD1
+eas	eas	etnk1	eas	Etnk1	eas	ETNK1
+Alg2	Alg2	alg2	Alg2	Alg2	Alg2	ALG2
+mtm	mtm	mtmr2	mtm	Mtmr2	mtm	MTMR2
+AnxB10	AnxB10	anxa5b	AnxB10	Anxa8	AnxB10	ANXA8L1
+wnd	wnd	map3k12	wnd	Map3k13	wnd	MAP3K13
+TBCC	TBCC	tbcc	TBCC	Tbcc	TBCC	TBCC
+CG6903			CG6903	Hgsnat	CG6903	HGSNAT
+CG11807	CG11807	nisch	CG11807	Nisch	CG11807	NISCH
+Nsf2	Nsf2	nsfa	Nsf2	Nsf	Nsf2	NSF
+uex	uex	cnnm2b	uex	Cnnm2	uex	CNNM4
+Sras	Sras	rce1a	Sras	Rce1	Sras	RCE1
+P58IPK	P58IPK	dnajc3a	P58IPK	Dnajc3	P58IPK	DNAJC3
+CG40045	CG40045	ube2g1a	CG40045	Ube2g1	CG40045	UBE2G1
+RNASEK	RNASEK	rnaseka	RNASEK	Rnasek	RNASEK	RNASEK
+CG40191	CG40191	cnppd1	CG40191	Cnppd1	CG40191	CNPPD1
+Bet1	Bet1	bet1	Bet1	Bet1	Bet1	BET1
+CG3652	CG3652	yipf6	CG3652	Yipf6	CG3652	YIPF6
+CG17202	CG17202	mycbp	CG17202	Mycbp	CG17202	MYCBP
+CG1486	CG1486	pdxdc1	CG1486	Pdxdc1	CG1486	PDXDC1
+RhoGAP93B			RhoGAP93B	Arhgap39	RhoGAP93B	ARHGAP39
+Vha44	Vha44	atp6v1c1a	Vha44	Atp6v1c1	Vha44	ATP6V1C1
+CG11857	CG11857	rer1	CG11857	Rer1	CG11857	RER1
+CG1105	CG1105	arrdc3a	CG1105	Arrdc2	CG1105	ARRDC2
+Ubc10	Ubc10	ube2l3b	Ubc10	Gm10705	Ubc10	UBE2L3
+CG12547	CG12547	nhlrc2	CG12547	Nhlrc2	CG12547	NHLRC2
+Tep2					Tep2	CD109
+PMCA	PMCA	atp2b3a	PMCA	Atp2b3	PMCA	ATP2B3
+Sar1	Sar1	sar1b	Sar1	Sar1b	Sar1	SAR1B
+Vha36-1	Vha36-1	atp6v1d	Vha36-1	Atp6v1d	Vha36-1	ATP6V1D
+Piezo	Piezo	piezo1			Piezo	PIEZO2
+par-6	par-6	pard6gb	par-6	Pard6g	par-6	PARD6G
+CG8230	CG8230	dym	CG8230	Dym	CG8230	DYM
+Dhap-at	Dhap-at	gnpat	Dhap-at	Gnpat	Dhap-at	GNPAT
+CG7945	CG7945	bag2	CG7945	Bag2	CG7945	BAG2
+CaMKI	CaMKI	camk1b	CaMKI	Camk1d	CaMKI	CAMK1D
+Vha26	Vha26	atp6v1e1b	Vha26	Atp6v1e1	Vha26	ATP6V1E1
+Pmm2	Pmm2	pmm2	Pmm2	Pmm2	Pmm2	PMM2
+Vps25	Vps25	vps25	Vps25	Vps25	Vps25	VPS25
+CG33054	CG33054	oard1	CG33054	Oard1	CG33054	OARD1
+PyK	PyK	pkma	PyK	Pkm	PyK	PKM
+Pmp70	Pmp70	abcd3b	Pmp70	Abcd3	Pmp70	ABCD3
+loco	loco	rgs12a	loco	Rgs12	loco	RGS12
+CG3061	CG3061	dnajb12a	CG3061	Dnajb12	CG3061	DNAJB12
+alpha-Cat	alpha-Cat	ctnna2	alpha-Cat	Ctnna1	alpha-Cat	CTNNA2
+Sep1			Sep1	Sept2		
+Pgm2a	Pgm2a	pgm2	Pgm2a	Pgm2l1	Pgm2a	PGM2
+betaggt-I	betaggt-I	pggt1b	betaggt-I	Pggt1b	betaggt-I	PGGT1B
+Mkk4	Mkk4	map2k4a	Mkk4	Map2k4	Mkk4	MAP2K4
+RN-tre	RN-tre	usp6nl	RN-tre	Usp6nl	RN-tre	USP6NL
+Fis1	Rpt6	psmc5	Fis1	Fis1	Fis1	FIS1
+Rpt6	aph-1	aph1b	Rpt6	Psmc5	Rpt6	PSMC5
+aph-1			aph-1	Aph1b	aph-1	APH1A
+CG5174	CG5174	tpd52l2a	CG5174	Tpd52	CG5174	TPD52L2
+Membrin	Membrin	gosr2	Membrin	Gosr2	Membrin	GOSR2
+CG14812	CG14812	lamtor5	CG14812	Lamtor5	CG14812	LAMTOR5
+Rpt4	Rpt4	psmc6	Rpt4	Psmc6	Rpt4	PSMC6
+Atf6	Atf6	atf6	Atf6	Atf6	Atf6	ATF6
+opm	opm	tmed5	opm	Tmed5	opm	TMED5
+Hel89B	Hel89B	btaf1	Hel89B	Btaf1	Hel89B	BTAF1
+Vps29	Vps29	vps29	Vps29	Vps29	Vps29	VPS29
+Arfip	Arfip	arfip2b	Arfip	Arfip2	Arfip	ARFIP2
+CG5708	CG5708	lmo4a	CG5708	Lmo4	CG5708	LMO4
+PDCD-5	PDCD-5	pdcd5	PDCD-5	Pdcd5-ps	PDCD-5	PDCD5
+ppl	ppl	gcshb	ppl	Gcsh	ppl	GCSH
+Calr	Calr	calr	Calr	Calr	Calr	CALR
+shi	shi	dnm1b	shi	Dnm1	shi	DNM1
+RhoGAP71E	RhoGAP71E	tagapa	RhoGAP71E	Arhgap20	RhoGAP71E	ARHGAP20
+EMC3	CG11537	hiat1b	EMC3	Emc3	EMC3	EMC3
+CG11537			CG11537	Mfsd14b	CG11537	MFSD14A
+cert			cert	Col4a3bp		
+Rpn5	Rpn5	psmd12	Rpn5	Psmd12	Rpn5	PSMD12
+Gdh	Gdh	glud1b	Gdh	Glud1	Gdh	GLUD1
+Cnx99A	Cnx99A	canx	Cnx99A	Canx		
+p24-1	p24-1	tmed7	p24-1	Tmed7	p24-1	TMED3
+CG1265			CG1265	Pqlc3	Usp14	USP14
+Usp14	Usp14	usp14	Usp14	Usp14		
+Cyt-c-p	Cyt-c-p	cycsb	Cyt-c-p	Gm10053	Cyt-c-p	CYCS
+Eno	Eno	eno1a	Eno	Eno2	Eno	ENO1
+CG11999	CG11999	sdf2l1	CG11999	Sdf2	CG11999	SDF2
